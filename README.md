@@ -1,3 +1,1 @@
-# AulaStarWars
-Site de Star Wars API
-vicente
+Yu Gi Oh API
